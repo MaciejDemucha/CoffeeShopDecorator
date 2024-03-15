@@ -7,5 +7,6 @@ Implementacja wzorca projektowego Decorator na przykładzie systemu obsługując
 - Caramel
 - Chocolate
 - Honey
-
-  ![dec](https://github.com/MaciejDemucha/CoffeeShopDecorator/assets/72813169/0a72e682-8578-4d2f-9b80-2bebb813e16c)
+<p align="center">
+  <img width="500" height="320" src="https://github.com/MaciejDemucha/CoffeeShopDecorator/assets/72813169/0a72e682-8578-4d2f-9b80-2bebb813e16c">
+</p>
